@@ -1,0 +1,162 @@
+/******img******/
+img{
+  border-radius: 50px;
+  float: left;
+  width: 50px;
+  margin:25px 25px 0 25px;
+}
+
+/******body******/
+
+body{
+  font-family: 'League Spartan', sans-serif;
+  font-size: 15px;
+  word-spacing: 1.5px;
+}
+
+/******header******/
+.header{
+  width: 25%;
+  position: absolute;
+  left: 150px;
+  top: 50px;
+}
+
+h1{
+  color: hsl(300, 43%, 22%);
+  font-size: 45px;
+}
+
+.heading-p{
+  color: hsl(303, 10%, 53%);
+}
+
+/******reviews******/
+
+
+.first-review{
+  position: absolute;
+  top: 70px;
+  left: 750px;
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+  width: 400px;
+  padding: 10px 0 10px 25px;
+  border-radius: 12px
+}
+
+.second-review{
+  position: absolute;
+  top: 135px;
+  left: 800px;
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+  width: 400px;
+  padding: 10px 0 10px 25px;
+  border-radius: 12px;
+}
+
+.third-review{
+  position: absolute;
+  top: 200px;
+  left: 850px;
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+  width: 400px;
+  padding: 10px 0 10px 25px;
+  border-radius: 12px;
+}
+
+.stars{
+  color: orange;
+  letter-spacing: 5px;
+  font-size: 20px;
+  padding: 0;
+}
+
+
+
+
+
+
+/******buyers******/
+
+.first-buyer{
+  background-color: hsl(300, 43%, 22%);
+  color: hsl(0, 0%, 100%);
+  width: 350px;
+  height: 230px;
+  border-radius: 12px;
+  position: absolute;
+  top: 325px;
+  left: 150px;
+}
+
+.second-buyer{
+  background-color: hsl(300, 43%, 22%);
+  color: hsl(0, 0%, 100%);
+  width: 350px;
+  height: 230px;
+  border-radius: 12px;
+  position: absolute;
+  top: 340px;
+  left: 525px;
+
+}
+
+.third-buyer{
+  background-color: hsl(300, 43%, 22%);
+  color: hsl(0, 0%, 100%);
+  width: 350px;
+  height: 230px;
+  border-radius: 12px;
+  position: absolute;
+  top: 355px;
+  left: 900px;
+
+}
+
+h5{
+  font-weight: bold;
+  padding-top: 30px;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+h6{
+  font-weight: 400;
+  margin: 0;
+  color: hsl(333, 80%, 67%);
+  font-size: 15px;
+}
+
+.comments{
+  margin-top: 30px;
+  line-height: 1.5;
+  margin: 40px 25px 0 25px;
+}
+
+
+
+
+
+
+/******attribution******/
+.attribution {
+  font-size: 11px;
+  position: absolute;
+  bottom: 20px;
+  left: 560px;
+}
+a {
+  color: hsl(300, 43%, 22%);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color: hsl(333, 80%, 67%);
+}
